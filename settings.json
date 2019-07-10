@@ -1,0 +1,9 @@
+{
+  "wall_img_dir": "biying2",
+  "cycle_time": 20000,
+  "dl_biying_img_dir": "biying2",
+  "dl_biying_img_mode": 0,
+  "dl_biying_img_max_count": 10,
+  "delete_files_before_dl_biying_img": true,
+  "dl_delay_time": "1h",
+}
