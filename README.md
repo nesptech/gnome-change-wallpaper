@@ -1,7 +1,7 @@
 # Gnome-change-wall
 自动下载必应壁纸，自动更换桌面壁纸
 
-# Gnome 下的自动下载安装壁纸
+# Gnome 下的自动下载轮换壁纸
  ## 使用方法
  1.下载bundle.zip并解压，目录结构如下
  
